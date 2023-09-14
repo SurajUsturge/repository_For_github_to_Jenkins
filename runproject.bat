@@ -1,0 +1,2 @@
+cd E:\Git_local_repo\single_TestNg_file_run_as_Maven_Test
+mvn clean install
